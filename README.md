@@ -30,7 +30,7 @@ A responsive and dynamic e-commerce website built using **HTML, CSS, and JavaScr
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](./headphones.jpeg)
+![Homepage Screenshot](./screenshot.png)
 
 
 

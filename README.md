@@ -4,7 +4,8 @@ A responsive and dynamic e-commerce website built using **HTML, CSS, and JavaScr
 
 ## 🚀 Live Demo
 
-👉 [View Website on Vercel]  
+👉 [View Website on Vercel] 
+https://ecommerce-site-git-main-divyansh-guptas-projects-0ce1e1c5.vercel.app/ 
 
 ---
 

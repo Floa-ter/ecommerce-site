@@ -32,28 +32,30 @@ A responsive and dynamic e-commerce website built using **HTML, CSS, and JavaScr
 
 ![Homepage Screenshot](./screenshot.png)
 
-
-
-
 ---
 
 ## 🗂️ Project Structure
 
-my-ecommerce-project/
-├── index.html
-├── styles.css
-├── script.js
-├── headphones.jpeg
-├── laptop.jpeg
-├── jeans.jpeg
+E-COMMERCE/
+├── background.jpeg
 ├── book.jpeg
+├── database.sql
+├── headphones.jpeg
+├── index.html
+├── indoor-plant.jpeg
+├── jeans.jpeg
 ├── kitchen-appliance.jpeg
-└── README.md
-
-yaml
-Copy
-Edit
-
+├── laptop.jpeg
+├── novel.jpeg
+├── screenshot.png # ✅ Screenshot used in README
+├── script.js
+├── smart-watch.jpeg
+├── smartphone.jpeg
+├── sneakers.jpeg
+├── styles.css
+├── t-shirt.jpeg
+├── tools-set.jpeg
+└── README.md # ← This filE
 ---
 
 ## 💡 How to Use
